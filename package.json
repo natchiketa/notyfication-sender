@@ -4,7 +4,7 @@
   "description": "Sample Node.js application for Heroku Scheduler",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check-items": "node check-items.js"
   },
   "keywords": [
     "Heroku",
